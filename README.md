@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Sutradhar</h1>
 <h3 align="center">Java Backend Developer | Spring Boot Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkashGitX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
