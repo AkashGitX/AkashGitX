@@ -14,11 +14,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://my-portfolio-portfolio-navy.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/akash-sutradhar-b6a305287/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqBSCnxwmTX%2Bfo9IQAddrYw%3D%3D))
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-portfolio-navy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sutradhar-b6a305287/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjElAbkebTYisS%2BvsZ3SbSA%3D%3D)
 [![Gmail](https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aec.csbs.akashsutradhar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsutradhar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-7E22CE?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/akashsutradhar)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashGitX)
+[![LeetCode](https://img.shields.io/badge/LeetCode-7E22CE?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akash_Sutradhar/)
 
 <br/>
 
