@@ -284,11 +284,12 @@ Currently:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/aec.csbs.akashsutradhar%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aec.csbs.akashsutradhar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsutradhar)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sutradhar-b6a305287/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjElAbkebTYisS%2BvsZ3SbSA%3D%3D)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashGitX)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-portfolio-navy.vercel.app/)
 
 </div>
+
 
 ---
 
