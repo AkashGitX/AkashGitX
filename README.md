@@ -22,9 +22,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akashsutradhar&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/akashsutradhar?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github)
-![Stars](https://img.shields.io/github/stars/akashsutradhar?style=for-the-badge&color=6d28d9&labelColor=1e1b4b&logo=github)
+
 
 </div>
 
